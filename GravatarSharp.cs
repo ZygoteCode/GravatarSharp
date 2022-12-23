@@ -31,7 +31,7 @@ public class GravatarSharp
             HttpResponse response = client.Send(request);
             byte[] body = response.Body;
 
-            while (!(body[0] == 0x89 && body[1] == 0x50 && body[2] == 0x4E && body[3] == 0x47))
+            while (!(body[0] == 0x89 && body[1] == 0x50 && body[2] == 0x4E && body[3] == 0x47) && !(body[0] == 0xFF && body[1] == 0xD8 && body[2] == 0xFF && body[3] == 0xE0))
             {
                 body = body.Skip(1).ToArray();
             }

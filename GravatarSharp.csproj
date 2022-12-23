@@ -32,17 +32,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BrotliSharpLib">
-      <HintPath>..\..\Computer\Generali\LegitHttpClient\BrotliSharpLib.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\LegitHttpClient\BrotliSharpLib.dll</HintPath>
     </Reference>
     <Reference Include="LegitHttpClient">
-      <HintPath>..\..\Computer\Generali\LegitHttpClient\LegitHttpClient.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\LegitHttpClient\LegitHttpClient.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Computer\Generali\LegitHttpClient\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>..\..\..\..\..\Generali\LegitHttpClient\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

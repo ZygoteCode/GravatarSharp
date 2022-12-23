@@ -1,0 +1,12 @@
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\GravatarSharp.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\GravatarSharp.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\BrotliSharpLib.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\LegitHttpClient.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\BrotliSharpLib.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\obj\Release\GravatarSharp.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\obj\Release\GravatarSharp.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\obj\Release\GravatarSharp.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\obj\Release\GravatarSharp.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\GravatarSharp\obj\Release\GravatarSharp.pdb
